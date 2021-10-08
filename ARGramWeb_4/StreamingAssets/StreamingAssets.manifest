@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 102967426
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newprefabsbundle
+      Dependencies: {}
